@@ -1,4 +1,4 @@
-![MasterHead](https://tenor.com/en-GB/view/unknown-coder-glitch-distorted-ctc-clarity-technologies-company-gif-17278168)
+![MasterHead]([https://tenor.com/en-GB/view/unknown-coder-glitch-distorted-ctc-clarity-technologies-company-gif-17278168](https://media1.tenor.com/m/MCwYe8IwhHcAAAAC/unknown-coder-glitch.gif))
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">A passionate backend developer from India.</h3>
 
